@@ -59,6 +59,8 @@ This project implements a **movie recommendation system** using the MovieLens da
    ```
    - Open the notebook file `recommendation_system.ipynb` in the browser.
 ---
+
+## Key Results
 - Identified popular movies based on ratings and user preferences.
 - Built a recommendation system capable of providing accurate movie suggestions for individual users.
 - Achieved satisfactory performance with RMSE evaluation.
