@@ -58,27 +58,28 @@ This project implements a **movie recommendation system** using the MovieLens da
    jupyter notebook
    ```
    - Open the notebook file `recommendation_system.ipynb` in the browser.
+---
+- Identified popular movies based on ratings and user preferences.
+- Built a recommendation system capable of providing accurate movie suggestions for individual users.
+- Achieved satisfactory performance with RMSE evaluation.
 
 ---
-Key Results
-Identified popular movies based on ratings and user preferences.
-Built a recommendation system capable of providing accurate movie suggestions for individual users.
-Achieved satisfactory performance with RMSE evaluation.
+
+## Lessons Learned
+- Effective data preprocessing significantly impacts model accuracy.
+- PySpark is a powerful tool for handling large-scale datasets efficiently.
+- Collaborative filtering algorithms like ALS work well for recommendation systems but require proper hyperparameter tuning.
 
 ---
-Lessons Learned
-Effective data preprocessing significantly impacts model accuracy.
-PySpark is a powerful tool for handling large-scale datasets efficiently.
-Collaborative filtering algorithms like ALS work well for recommendation systems but require proper hyperparameter tuning.
+
+## Future Improvements
+- Incorporate additional metadata such as tags and genres into the recommendation model.
+- Experiment with hybrid recommendation approaches (content-based + collaborative filtering).
+- Optimize performance for even larger datasets.
 
 ---
-Future Improvements
-Incorporate additional metadata such as tags and genres into the recommendation model.
-Experiment with hybrid recommendation approaches (content-based + collaborative filtering).
-Optimize performance for even larger datasets.
 
----
-Authors
-Yuancheng Wang (yw8063)
-Zehao Li (zl5573)
-Yang Xu (yx3315)
+## Authors
+- **Yuancheng Wang** (yw8063)
+- **Zehao Li** (zl5573)
+- **Yang Xu** (yx3315)
